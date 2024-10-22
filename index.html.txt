@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Página de Maria</title>
+</head>
+<body>
+    <h1>Bem-vindo à minha página!</h1>
+    <p>Esta é uma página de exemplo criada por Maria.</p>
+</body>
+</html>
+
